@@ -1,1 +1,3 @@
-
+- Añadido dos puntos de luz en la zona de trabajo de los jugadores.
+  - En la lona de los arsenales
+  - Dentro del HQ.
