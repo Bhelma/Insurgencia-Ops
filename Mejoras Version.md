@@ -1,3 +1,4 @@
-- Añadido dos puntos de luz en la zona de trabajo de los jugadores.
+- Añadido; Dos puntos de luz en la zona de trabajo de los jugadores.
   - En la lona de los arsenales
   - Dentro del HQ.
+- Corregido: No finalizaban las partidas tras eliminar civiles y destruir el Command Truck
