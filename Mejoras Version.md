@@ -1,4 +1,7 @@
-- Añadido; Dos puntos de luz en la zona de trabajo de los jugadores.
-  - En la lona de los arsenales
-  - Dentro del HQ.
-- Corregido: No finalizaban las partidas tras eliminar civiles y destruir el Command Truck
+- Añadida: Nueva tarea de suministros (Siempre fija)
+- Añadida: Nueva tarea en base submarinos. (Siempre fija)
+- Añadida: Nueva tarea en la abadia (Siempre fija)
+- Mejorado: La minas cambian de ubicacion cada 30 minutos.
+- Cambio: Ubicacion de la base inicial. Ya no hay HQ ni mantenimiento, nueva tarea para obtenerlos.
+- Cambio: La mision de defender la base, solo una opcion, pero mejorado el sistema y contraataque enemigo.
+- Cambio: En las tareas de los documentos y arsenales. Mas sencillas.
