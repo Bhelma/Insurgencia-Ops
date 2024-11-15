@@ -6,7 +6,7 @@
 	{
 		"modId": "625334C616FBC410",
 		"name": "MilSimAddon",
-		"version": "1.0.21"
+		"version": "1.0.23"
 	},
 	{
 		"modId": "60C4C12DAE90727B",
@@ -91,7 +91,7 @@
 	{
 		"modId": "62870D9D753B715B",
 		"name": "Insurgencia Ops",
-		"version": "1.0.11"
+		"version": "1.0.13"
 	},
 	{
 		"modId": "6210BCE5CDC3132F",
@@ -142,11 +142,6 @@
 		"modId": "59A30ACC02650E71",
 		"name": "Night Vision System",
 		"version": "1.1.26"
-	},
-	{
-		"modId": "5994AD5A9F33BE57",
-		"name": "Game Master FX",
-		"version": ""
 	},
 	{
 		"modId": "62593E440F3FF363",
@@ -227,11 +222,6 @@
 		"modId": "617EB0013539C88E",
 		"name": "Phoenix Studios Common",
 		"version": "1.0.4"
-	},
-	{
-		"modId": "5964E0B3BB7410CE",
-		"name": "Game Master Enhanced",
-		"version": ""
 	},
 	{
 		"modId": "606D03292879EF5B",
