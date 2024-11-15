@@ -1,4 +1,4 @@
--Cambiado: Arsenal de Spawn a menos capacidad de suministros.
+- Cambiado: Arsenal de Spawn a menos capacidad de suministros.
 - Añadido: Creador de vehiculos pequeños en zona de spawn.
 - Añadido: Varios puntos de suministros nuevos.
 - Añadido: Nuevo objetivo aleatorio dentro de la base militar del norte.
