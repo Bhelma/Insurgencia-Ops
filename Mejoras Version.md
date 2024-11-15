@@ -1,7 +1,6 @@
-- Añadida: Nueva tarea de suministros (Siempre fija)
-- Añadida: Nueva tarea en base submarinos. (Siempre fija)
-- Añadida: Nueva tarea en la abadia (Siempre fija)
-- Mejorado: La minas cambian de ubicacion cada 30 minutos.
-- Cambio: Ubicacion de la base inicial. Ya no hay HQ ni mantenimiento, nueva tarea para obtenerlos.
-- Cambio: La mision de defender la base, solo una opcion, pero mejorado el sistema y contraataque enemigo.
-- Cambio: En las tareas de los documentos y arsenales. Mas sencillas.
+-Cambiado: Arsenal de Spawn a menos capacidad de suministros.
+- Añadido: Creador de vehiculos pequeños en zona de spawn.
+- Añadido: Varios puntos de suministros nuevos.
+- Añadido: Nuevo objetivo aleatorio dentro de la base militar del norte.
+- Arreglado: Contador de la mision de defender.
+- Eliminado: Modulos de GM del servidor.
