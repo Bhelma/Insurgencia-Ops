@@ -1,5 +1,5 @@
 - Actualizada a la version del juego.
-- Añadido: Sistema de patrulla a pie. Cuando se elimina la patrulla se genera de nuevo en 3 puntos distintos del mapa.
+- Añadido: Sistema de patrulla a pie. Cuando se elimina la patrulla se generara en su punto de inicio. Hay 3 lugares distintos donde renacen las patrullas.
 - Añadido: Para eliminar las patrullas se deberan completar unas tareas, que comenzan tomando el control de las bases secretas de la FIA.
 - Añadido: Sistema de patrulla de camiones enemigo.
 - Añadido: Sistema de refuerzos cuando se completa la tarea de las bases secretas. Cuando se destruye el refuerzo se genera otro de nuevo.
