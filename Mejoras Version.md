@@ -11,7 +11,8 @@
     - PRE 3: 42
     - PRE 4: 43
     - PRE 5: 44
-    - GLOBAL (Por esta siempre se recibe a no ser que se apague la recepcion de este canal): 48 
+    - GLOBAL (Por esta siempre se recibe a no ser que se apague la recepcion de este canal): 48
+  - ### Esto solo esta disponible con la radio ANPRC152 y NO con la ANPRC152A.
 - Añadido: Pista de helicopteros al lado del puesto avanzado, para una mejor colocacion de los vehiculos capturados.
 - Corregido: El mensaje repetido de ciertas tareas.
 - Añadido: Sistema de radio en puesto avanzado. Con esta manera es posible que el enemigo pueda tomarlo. Habra que ir con mucho cuidado.
