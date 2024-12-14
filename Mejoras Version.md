@@ -1,6 +1,9 @@
-- Cambiado: Arsenal de Spawn a menos capacidad de suministros.
-- Añadido: Creador de vehiculos pequeños en zona de spawn.
-- Añadido: Varios puntos de suministros nuevos.
-- Añadido: Nuevo objetivo aleatorio dentro de la base militar del norte.
-- Arreglado: Contador de la mision de defender.
-- Eliminado: Modulos de GM del servidor.
+- Actualizada a la version del juego.
+- Añadido: Sistema de patrulla a pie. Cuando se elimina la patrulla se genera de nuevo en 3 puntos distintos del mapa.
+- Añadido: Para eliminar las patrullas se deberan completar unas tareas, que comenzan tomando el control de las bases secretas de la FIA.
+- Añadido: Sistema de patrulla de camiones enemigo.
+- Añadido: Sistema de refuerzos cuando se completa la tarea de las bases secretas. Cuando se destruye el refuerzo se genera otro de nuevo.
+    - Se genera un punto de spawn aliado, que cuando la AI toma el control desaparece hasta que se vuelva a tomar el control de la Base secreta.
+- Añadido: Las radios del RHS, estan configuradas para que en el canal 1 este el 40 y se reciba por el 48 como global.
+- Añadido: Pista de helicopteros al lado del puesto avanzado, para una mejor colocacion de los vehiculos capturados.
+- Corregido: El mensaje repetido de ciertas tareas.
