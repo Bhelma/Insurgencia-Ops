@@ -5,6 +5,13 @@
 - Añadido: Sistema de refuerzos cuando se completa la tarea de las bases secretas. Cuando se destruye el refuerzo se genera otro de nuevo.
     - Se genera un punto de spawn aliado, que cuando la AI toma el control desaparece hasta que se vuelva a tomar el control de la Base secreta.
 - Añadido: Las radios del RHS, estan configuradas para que en el canal 1 este el 40 y se reciba por el 48 como global.
+  - Presets preestablecidos incluso muriendo:
+    - PRE 1: 40
+    - PRE 2: 41
+    - PRE 3: 42
+    - PRE 4: 43
+    - PRE 5: 44
+    - GLOBAL (Por esta siempre se recibe a no ser que se apague la recepcion de este canal): 48 
 - Añadido: Pista de helicopteros al lado del puesto avanzado, para una mejor colocacion de los vehiculos capturados.
 - Corregido: El mensaje repetido de ciertas tareas.
 - Añadido: Sistema de radio en puesto avanzado. Con esta manera es posible que el enemigo pueda tomarlo. Habra que ir con mucho cuidado.
