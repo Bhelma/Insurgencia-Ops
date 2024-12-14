@@ -1,4 +1,6 @@
 - Actualizada a la version del juego.
+- Mejorado: Ahora en las tareas de las antenas se ha de interactuar tanto con la radio enemiga como con la antena (presionando el pulsador) para dar la tarea por completada. Ya no funciona simplemente con la presencia del jugador en el lugar.
+- Mejorado: Ahora en las tareas de las centrales electricas, se ha de pulsar el pulsador para que de la tarea por completada. Ya no funciona simplemente con la presencia del jugador en el lugar.
 - Añadido: Sistema de patrulla a pie. Cuando se elimina la patrulla se generara en su punto de inicio. Hay 3 lugares distintos donde renacen las patrullas.
 - Añadido: Para eliminar las patrullas se deberan completar unas tareas, que comenzan tomando el control de las bases secretas de la FIA.
 - Añadido: Sistema de patrulla de camiones enemigo.
