@@ -7,3 +7,6 @@
 - Añadido: Las radios del RHS, estan configuradas para que en el canal 1 este el 40 y se reciba por el 48 como global.
 - Añadido: Pista de helicopteros al lado del puesto avanzado, para una mejor colocacion de los vehiculos capturados.
 - Corregido: El mensaje repetido de ciertas tareas.
+- Añadido: Sistema de radio en puesto avanzado. Con esta manera es posible que el enemigo pueda tomarlo. Habra que ir con mucho cuidado.
+  - La AI puede tomar el control de la radio y pueden dejar de recibir ordenes, es decir, misiones.
+- Cuando se cumpla la tarea de la cueva de las minas, desactivaran todas las minas de la carretera.
