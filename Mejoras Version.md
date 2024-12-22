@@ -1,22 +1,12 @@
-- Actualizada a la version del juego.
-- Mejorado: Ahora en las tareas de las antenas se ha de interactuar tanto con la radio enemiga como con la antena (presionando el pulsador) para dar la tarea por completada. Ya no funciona simplemente con la presencia del jugador en el lugar.
-- Mejorado: Ahora en las tareas de las centrales electricas, se ha de pulsar el pulsador para que de la tarea por completada. Ya no funciona simplemente con la presencia del jugador en el lugar.
-- Añadido: Sistema de patrulla a pie. Cuando se elimina la patrulla se generara en su punto de inicio. Hay 3 lugares distintos donde renacen las patrullas.
-- Añadido: Para eliminar las patrullas se deberan completar unas tareas, que comenzan tomando el control de las bases secretas de la FIA.
-- Añadido: Sistema de patrulla de camiones enemigo.
-- Añadido: Sistema de refuerzos cuando se completa la tarea de las bases secretas. Cuando se destruye el refuerzo se genera otro de nuevo.
-    - Se genera un punto de spawn aliado, que cuando la AI toma el control desaparece hasta que se vuelva a tomar el control de la Base secreta.
-- Añadido: Las radios del RHS, estan configuradas para que en el canal 1 este el 40 y se reciba por el 48 como global.
-  - Presets preestablecidos incluso muriendo:
-    - PRE 1: 40
-    - PRE 2: 41
-    - PRE 3: 42
-    - PRE 4: 43
-    - PRE 5: 44
-    - GLOBAL (Por esta siempre se recibe a no ser que se apague la recepcion de este canal): 48
-  - ### Esto solo esta disponible con la radio ANPRC152 y NO con la ANPRC152A.
-- Añadido: Pista de helicopteros al lado del puesto avanzado, para una mejor colocacion de los vehiculos capturados.
-- Corregido: El mensaje repetido de ciertas tareas.
-- Añadido: Sistema de radio en puesto avanzado. Con esta manera es posible que el enemigo pueda tomarlo. Habra que ir con mucho cuidado.
-  - La AI puede tomar el control de la radio y pueden dejar de recibir ordenes, es decir, misiones.
-- Cuando se cumpla la tarea de la cueva de las minas, desactivaran todas las minas de la carretera.
+- Añadida: Nueva mision de ayuda civil en Lutley y potabilizadora de agua. Se alterna con la ayuda civil del puente.
+- Añadido: Un nuevo panel en el embarcadero para el poder sacar lanchas. Seran necesarios recursos.
+- Añadido: Penalizacion de 180 segundos cada vez que se muere.
+- Revisado: Los vehiculos que desaparecen del juego, para diferenciarlos de los que permanecen, ahora seran vehiculos civiles.
+- Mejorado: El peso de las vendas. Ahora pesan 10gramos y con un volumen mas acorde a la realidad y no como el de una pala (Volumen estipulado por Bohemia, no se que tipo de vendas hay en su pais).
+- Solucionado: Las minas dummy no desaparecian.
+- Cambiado: Sistema de emplazamiento de las minas.
+- Cambiado: La tarea del puente, ahora hay que accionar los botones para completar la tarea.
+- Añadido: La insurgencia ahora dispone de gas V1, asi que tengan cuidad en algunos objetivos. Se han añadido mascaras de gas del tipo M17 al inventario.
+  - El efecto del gas es la inconsciencia del jugador.
+- Eliminado: Transito de vehiculos conducido por la AIs. Se lia en las carreteras con recorridos de media/larga distancia.
+- Solucionado: El generar patrullas automaticamente.
