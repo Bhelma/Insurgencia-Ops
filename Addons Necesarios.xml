@@ -1,12 +1,12 @@
 	{
 		"modId": "595F2BF2F44836FB",
 		"name": "RHS - Status Quo",
-		"version": "0.10.3906"
+		"version": "0.10.3948"
 	},
 	{
 		"modId": "625334C616FBC410",
 		"name": "MilSimAddon",
-		"version": "1.0.33"
+		"version": "1.0.36"
 	},
 	{
 		"modId": "60C4C12DAE90727B",
@@ -16,7 +16,7 @@
 	{
 		"modId": "5E389BB9F58B79A6",
 		"name": "SpaceCore",
-		"version": "1.2.18"
+		"version": "1.2.27"
 	},
 	{
 		"modId": "596CB4A0AE84C08E",
@@ -76,12 +76,12 @@
 	{
 		"modId": "62021EB6163A2698",
 		"name": "NGSW",
-		"version": "1.1.2"
+		"version": "1.1.3"
 	},
 	{
 		"modId": "62870D9D753B715B",
 		"name": "Insurgencia Ops",
-		"version": "1.0.26"
+		"version": "1.0.30"
 	},
 	{
 		"modId": "5AAAC70D754245DD",
@@ -91,7 +91,7 @@
 	{
 		"modId": "606B100247F5C709",
 		"name": "Bacon Loadout Editor",
-		"version": "1.2.17"
+		"version": "1.2.21"
 	},
 	{
 		"modId": "5C9AD9EF76F6B5EA",
@@ -191,5 +191,35 @@
 	{
 		"modId": "629B2BA37EFFD577",
 		"name": "WCS_Armament",
-		"version": "1.0.58"
+		"version": "1.0.70"
+	},
+	{
+		"modId": "5B3ED33ADA805340",
+		"name": "Task Force Mattock Weapons",
+		"version": ""
+	},
+	{
+		"modId": "59A30ACC02650E71",
+		"name": "Night Vision System",
+		"version": ""
+	},
+	{
+		"modId": "5CF0C3158AB2337E",
+		"name": "Task Force Mattock Uniforms",
+		"version": ""
+	},
+	{
+		"modId": "5994AD5A9F33BE57",
+		"name": "Game Master FX",
+		"version": "1.0.94"
+	},
+	{
+		"modId": "63255A0AB3F94666",
+		"name": "Project X-Ray Gas Mask Pack",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "5AAF6D5352E5FCAB",
+		"name": "Project Redline - Core",
+		"version": ""
 	}
