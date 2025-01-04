@@ -1,12 +1,1 @@
-- Añadida: Nueva mision de ayuda civil en Lutley y potabilizadora de agua. Se alterna con la ayuda civil del puente.
-- Añadido: Un nuevo panel en el embarcadero para el poder sacar lanchas. Seran necesarios recursos.
-- Añadido: Penalizacion de 180 segundos cada vez que se muere.
-- Revisado: Los vehiculos que desaparecen del juego, para diferenciarlos de los que permanecen, ahora seran vehiculos civiles.
-- Mejorado: El peso de las vendas. Ahora pesan 10gramos y con un volumen mas acorde a la realidad y no como el de una pala (Volumen estipulado por Bohemia, no se que tipo de vendas hay en su pais).
-- Solucionado: Las minas dummy no desaparecian.
-- Cambiado: Sistema de emplazamiento de las minas.
-- Cambiado: La tarea del puente, ahora hay que accionar los botones para completar la tarea.
-- Añadido: La insurgencia ahora dispone de gas V1, asi que tengan cuidad en algunos objetivos. Se han añadido mascaras de gas del tipo M17 al inventario.
-  - El efecto del gas es la inconsciencia del jugador.
-- Eliminado: Transito de vehiculos conducido por la AIs. Se lia en las carreteras con recorridos de media/larga distancia.
-- Solucionado: El generar patrullas automaticamente.
+- Mejorado: El gas ya no es visible.
